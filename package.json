@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "performs calculations",
+  "main": "job.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rajvi Desai",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
