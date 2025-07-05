@@ -1,2 +1,3 @@
 # Calculator
-Add and test our project
+performs Addition
+test project with different test cases
