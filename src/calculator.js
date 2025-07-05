@@ -1,7 +1,7 @@
 function add(num)
 {
     let ans=0; 
-    if(num=="")
+    if(num=="" || num==" ")
     {
         return ans;
     }
@@ -84,7 +84,8 @@ let testCases=["1,2\n3,4",
     "//[**][%%]\n1**2%%3",
     "-1,2,-3,4",
     "//[$]\n745$6",
-    "//[$]\n74&4"];
+    "//[$]\n74&4",
+    " "];
 
 for(ele of testCases)
 {

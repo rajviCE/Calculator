@@ -1,5 +1,5 @@
 // calculator.test.js
-const add = require('./calculator');
+const add = require('../src/calculator');
 
 describe("Unit Tests for add function", () => {
     test("Empty string returns 0", () => {
