@@ -1,7 +1,7 @@
 function add(num)
 {
     let ans=0; 
-    if(num=="")
+    if(num=="" || num==" ")
     {
         return ans;
     }
